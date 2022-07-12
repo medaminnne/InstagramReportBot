@@ -19,8 +19,6 @@ Works On
 
 ```
 
-<a href="https://t.me/crevilbot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
 ## Requirements
 
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -64,24 +62,6 @@ No need to install git in linux or termux
 - `pip3 install -r requirements.txt`
 - `chmod +x *`
 - `sudo bash setup.sh`
-
-## Stats
-
-<a href="https://github.com/Crevils/InstaReport"><img src="https://github-readme-stats.vercel.app/api?username=crevils&theme=blue-green"></a>
-
-<p align="left">
-  <a href="">
-    <img src="/assets/instareport.gif" width="500px" style="display: inline-block;">
-  </a>
-</p>
-
-## **[Buy Premium](https:t.me/crevilBot) InstaReport Tool or [contact](https://t.me/crevilbot) me personally for banning account**
-
-# DONATION
-
-`Help us to keep this project alive and maintained by donating. Thanks`
-
-<a href="https://commerce.coinbase.com/checkout/992a5a00-182e-48fa-b991-49e2fbdab01c"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
 
 ## Warning:
 
