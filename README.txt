@@ -22,12 +22,3 @@ ANDROID (Termux)
 2. install python
 3. Run "pip install -r requirements.txt" 
 4. Run "python reportbot.pyc"
-
-
-ABOUT AUTHOR 
-
-Hey, I am crevil. This tool is codded by me. 
-You can contact me on telegram at @hacker_exploits
-My telegram channel @hackerExploits Where i do giveaway 
-of many hacking tools/exploits.
-Join Us On telegram @HackerExploits For More Such Hacking Tools/Exploits

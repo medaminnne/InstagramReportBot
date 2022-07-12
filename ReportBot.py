@@ -107,18 +107,16 @@ def profile_attack (OOO0O00OO0O0O000O ):#line:112
 def unlock ():#line:147
     print (Style .RESET_ALL )#line:148
     OOO00O0OOO0OO0O0O =input ("Enter Code To Unlock This Tool - ")#line:149
-    if (OOO00O0OOO0OO0O0O =="@hackerexploits"):#line:150
+    if (OOO00O0OOO0OO0O0O =="subscribe"):#line:150
         print_success ("Successfully unlocked the tool!\n\n")#line:151
         starting_bot ()#line:152
         database ()#line:153
     elif (OOO00O0OOO0OO0O0O =="1"):#line:154
-        print_success ("Send #instareport in telegram group @Hacker_Chatroom to get the code\n\n")#line:155
         time .sleep (3 )#line:156
-        webbrowser .open ('http://t.me/Hacker_Chatroom')#line:157
+        webbrowser .open ('http://topnotch-programmer.com')#line:157
         time .sleep (1 )#line:158
         unlock ()#line:159
     else :#line:160
-        print ('\nINVALID CODE\n\nHow To Get Code\nGo to t.me/Hacker_Chatroom\nSend #instareport')#line:161
         print_success ("Press 1 for help\n")#line:162
         time .sleep (2 )#line:163
         unlock ()#line:164
