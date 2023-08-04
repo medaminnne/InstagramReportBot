@@ -12,7 +12,7 @@ White="\033[1;37m"       # White
 
 clear
 echo -e "$Purple Created By \e[1;34m"
-       figlet Insta Report | lolcat
+       figlet Insta Report  lolcat
 sleep 2.0
     echo -e " \e[96m  
                                      ████████ \e[0m"
@@ -24,7 +24,7 @@ echo -e    "\e[0m                                 ▐██──\e[91m▀▀\e[
 echo "                                ▄████▄──▐▌──▄████▄"
 echo -e    "\e[91m"  
 echo " "  
-figlet -f Bloody Insta-Hack | lolcat
+figlet -f Bloody Insta-Hack  lolcat
 
     echo " "
     echo -e "$Red                                 ⫸ Coded by$Yellow Crevil$Red ⫷\033[0m"
